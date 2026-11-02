@@ -1,1 +1,2 @@
 Original file B
+New work in file B

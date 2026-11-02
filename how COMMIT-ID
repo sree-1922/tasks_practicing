@@ -1,0 +1,74 @@
+[33mcommit d8e7a8d4c27b2dd2f5358d8ea3652a75d8f84087[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: bsree.1922.1922@gmail.com <bsree.1922.1922@gmail.com>
+Date:   Tue Oct 27 17:55:31 2026 +0530
+
+    Test GitHub webhook
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 6208e69a82e7e682f319697139d60b087b21b8ca[m
+Author: bsree.1922.1922@gmail.com <bsree.1922.1922@gmail.com>
+Date:   Tue Oct 27 17:51:57 2026 +0530
+
+    Added file webhook
+
+ webhook.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit cbc31205eb4c2b3859cbf8f15113e4a1bc9763b5[m
+Author: bsree.1922.1922@gmail.com <bsree.1922.1922@gmail.com>
+Date:   Tue Oct 27 17:24:31 2026 +0530
+
+    Added files for stash practice
+
+ fileA.txt | 1 [32m+[m
+ fileB.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
+
+[33mcommit 1352e1535745726eae10c052326d0f23361d67bf[m
+Author: bsree.1922.1922@gmail.com <bsree.1922.1922@gmail.com>
+Date:   Tue Oct 27 17:03:44 2026 +0530
+
+    Ignore local password practice file
+
+ .gitignore | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit f0af5c811825986327047e81733f97a08b5645d7[m
+Merge: 383cb23 10bdff3
+Author: srikanth <bsree.1922.1922@gmail.com>
+Date:   Tue Oct 27 16:45:23 2026 +0530
+
+    Merge pull request #1 from sree-1922/pull-request-demo
+    
+    Added pull request demo file
+
+[33mcommit 10bdff3f7abf8be1ed841af10e48883f12a6a983[m[33m ([m[1;31morigin/pull-request-demo[m[33m, [m[1;32mpull-request-demo[m[33m)[m
+Author: bsree.1922.1922@gmail.com <bsree.1922.1922@gmail.com>
+Date:   Tue Oct 27 16:41:42 2026 +0530
+
+    Added pull request demo file
+
+ pr-demo.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 999dc65e8334b8a593bde32c55bb6a3079162a28[m[33m ([m[1;32mmerge-demo[m[33m)[m
+Author: bsree.1922.1922@gmail.com <bsree.1922.1922@gmail.com>
+Date:   Tue Oct 27 16:37:06 2026 +0530
+
+    Add merge demo file
+
+ merge-demo.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 383cb23e954fd0a6a6e39f337bf4dd6d76eaa62f[m[33m ([m[1;31morigin/github-feature[m[33m, [m[1;32mgithub-feature[m[33m)[m
+Author: bsree.1922.1922@gmail.com <bsree.1922.1922@gmail.com>
+Date:   Tue Oct 27 15:52:01 2026 +0530
+
+    Added two practice files
+
+ file1.txt        | 1 [32m+[m
+ file2.txt        | 1 [32m+[m
+ tasks_practicing | 1 [32m+[m
+ 3 files changed, 3 insertions(+)
